@@ -121,7 +121,10 @@ with st.sidebar:
     )
     st.divider()
     st.caption(
-        "[Source](https://github.com/ines/die-aerzte/tree/main/konzert-statistik) · Made with ❤️ by [Ines](https://ines.io)"
+        """
+        [Source](https://github.com/ines/die-aerzte/tree/main/konzert-statistik) ·
+        Made with ❤️ by [Ines](https://ines.io)
+        """
     )
 if user_name:
     with st.spinner("Loading..."):
