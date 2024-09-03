@@ -1,7 +1,7 @@
 # 🎸 Die Ärzte Konzert Statistik
 
-> Statistiken zu allen Konzerten, auf denen du warst und Songs, die du live gesehen hast. Inspiriert von Gesprächen mit anderen Fans, welche Songs wir am häufigsten live gesehen haben.
->
+Statistiken zu allen Konzerten, auf denen du warst und Songs, die du live gesehen hast. Inspiriert von Gesprächen mit anderen Fans, welche Songs wir am häufigsten live gesehen haben.
+
 > 🔗 https://die-aerzte.streamlit.app
 
 ![](https://github.com/user-attachments/assets/1cc07146-ce14-4603-9d5c-8cb1ef12c290)
@@ -14,10 +14,13 @@ Die App verwendet [Python](https://www.python.org/) 3.9+, die [setlist.fm API](h
 # Clone repo
 git clone https://github.com/ines/die-aerzte
 cd die-aerzte/konzert-statistik
+
 # Install dependencies
 pip install -r requirements.txt
+
 # Set API key
 export API_KEY=XXXXXXXXXX
+
 # Run app
 streamlit run app.py
 ```
