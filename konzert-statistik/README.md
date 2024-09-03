@@ -4,8 +4,6 @@ Statistiken zu allen Konzerten, auf denen du warst und Songs, die du live gesehe
 
 > 🔗 https://die-aerzte.streamlit.app
 
-![](https://github.com/user-attachments/assets/1cc07146-ce14-4603-9d5c-8cb1ef12c290)
-
 ## Details und Installation
 
 Die App verwendet [Python](https://www.python.org/) 3.9+, die [setlist.fm API](https://api.setlist.fm/docs/1.0/ui/index.html) und [Streamlit](https://streamlit.io/) für Visualisierung und Hosting. Um sie lokal auszuführen, brauchst du einen setlist.fm-Account und einen [API-Key](https://www.setlist.fm/settings/api).
